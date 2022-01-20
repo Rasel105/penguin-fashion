@@ -1,0 +1,24 @@
+/* google font  */
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+body {
+    /* font-family: "Bebas Neue", cursive; */
+}
+
+.header-bg {
+    height: 100vh;
+    background: #fffbf0;
+}
+
+.winter-color {
+    color: #363958;
+}
+
+.woman {
+    color: #363958;
+}
+
+
+/* .jacket-section {
+    height: 100vh;
+} */
